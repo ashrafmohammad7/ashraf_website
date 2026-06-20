@@ -1,16 +1,50 @@
-# React + Vite
+# Mohammad Ashraf Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern portfolio website built using React, Vite, Tailwind CSS and Framer Motion.
 
-Currently, two official plugins are available:
+## Live Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Responsive Design
+- Animated Hero Section
+- Glassmorphism Navbar
+- Project Showcase
+- Experience Timeline
+- Certifications Section
+- Contact Section
+- Social Links
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Vite
+- Tailwind CSS
+- Framer Motion
+- React Icons
 
-## Expanding the ESLint configuration
+## About Me
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Final-Year Computer Science Engineering (AI & ML) student passionate about building scalable web applications, AI-powered SaaS products and machine learning solutions.
+
+## Projects
+
+### Burnwise AI
+AI Spend Audit Platform for startups.
+
+### ForexML
+Currency exchange forecasting platform using Machine Learning.
+
+### WanderLust
+Airbnb-inspired travel listing platform.
+
+### AI Drowsiness Detection
+Driver safety monitoring system using Deep Learning.
+
+## Contact
+
+Email: ashrafmohammed07557@gmail.com
+
+LinkedIn:
+https://linkedin.com/in/mohammadashraf7
+
+GitHub:
+https://github.com/ashrafmohammad7
