@@ -23,7 +23,7 @@ A modern portfolio website built using React, Vite, Tailwind CSS and Framer Moti
 
 ## About Me
 
-Final-Year Computer Science Engineering (AI & ML) student passionate about building scalable web applications, AI-powered SaaS products and machine learning solutions.
+Final-Year Computer Science Engineering (AIML) student passionate about building scalable web applications, AI-powered SaaS products and machine learning solutions.
 
 ## Projects
 
