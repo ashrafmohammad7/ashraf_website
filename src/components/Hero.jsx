@@ -43,7 +43,7 @@ export default function Hero() {
               2000,
               "Full Stack Developer",
               2000,
-              "AI & ML Enthusiast",
+              "AI & ML Engineer",
               2000,
               "Backend Developer",
               2000,
