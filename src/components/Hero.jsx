@@ -1,11 +1,7 @@
-import profile fromls -Force "../assets/profile.jpeg";
+import profile from "../assets/profile.jpeg";
 import { TypeAnimation } from "react-type-animation";
 import { motion } from "framer-motion";
-import {
-  FaGithub,
-  FaLinkedin,
-  FaEnvelope,
-} from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
 
 export default function Hero() {
   return (
