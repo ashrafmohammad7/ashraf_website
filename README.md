@@ -2,17 +2,6 @@
 
 A modern portfolio website built using React, Vite, Tailwind CSS and Framer Motion.
 
-## Live Features
-
-- Responsive Design
-- Animated Hero Section
-- Glassmorphism Navbar
-- Project Showcase
-- Experience Timeline
-- Certifications Section
-- Contact Section
-- Social Links
-
 ## Tech Stack
 
 - React.js
